@@ -1,0 +1,144 @@
+[
+  {
+    "id": 1,
+    "name": "Sohel Rana",
+    "email": "sohel.rana@gmail.com",
+    "picture": "https://randomuser.me/api/portraits/men/10.jpg",
+    "days_since_contact": 12,
+    "status": "On Track",
+    "tags": [
+      "work"
+    ],
+    "bio": "Frontend developer passionate about React and modern UI design.",
+    "goal": 14,
+    "next_due_date": "2026-04-30"
+  },
+  {
+    "id": 2,
+    "name": "Nusrat Jahan",
+    "email": "nusrat.jahan@gmail.com",
+    "picture": "https://randomuser.me/api/portraits/women/22.jpg",
+    "days_since_contact": 88,
+    "status": "Almost Due",
+    "tags": [
+      "family"
+    ],
+    "bio": "Close friend from university. Loves design and photography.",
+    "goal": 12,
+    "next_due_date": "2026-04-18"
+  },
+  {
+    "id": 3,
+    "name": "Tanvir Hasan",
+    "email": "tanvir.hasan@gmail.com",
+    "picture": "https://randomuser.me/api/portraits/men/23.jpg",
+    "days_since_contact": 130,
+    "status": "Overdue",
+    "tags": [
+      "work"
+    ],
+    "bio": "Backend developer specializing in Node.js and databases.",
+    "goal": 7,
+    "next_due_date": "2026-04-08"
+  },
+  {
+    "id": 4,
+    "name": "Mehedi Hasan",
+    "email": "mehedi.hasan@gmail.com",
+    "picture": "https://randomuser.me/api/portraits/men/24.jpg",
+    "days_since_contact": 60,
+    "status": "Almost Due",
+    "tags": [
+      "travel",
+      "hobby"
+    ],
+    "bio": "Travel partner. Loves exploring new places and cultures.",
+    "goal": 20,
+    "next_due_date": "2026-04-21"
+  },
+  {
+    "id": 5,
+    "name": "Sadia Akter",
+    "email": "sadia.akter@gmail.com",
+    "picture": "https://randomuser.me/api/portraits/women/25.jpg",
+    "days_since_contact": 140,
+    "status": "Overdue",
+    "tags": [
+      "work"
+    ],
+    "bio": "Project manager with strong leadership and communication skills.",
+    "goal": 15,
+    "next_due_date": "2026-04-05"
+  },
+  {
+    "id": 6,
+    "name": "Rakib Hossain",
+    "email": "rakib.hossain@gmail.com",
+    "picture": "https://randomuser.me/api/portraits/men/26.jpg",
+    "days_since_contact": 20,
+    "status": "On Track",
+    "tags": [
+      "work"
+    ],
+    "bio": "Junior developer learning full stack development.",
+    "goal": 14,
+    "next_due_date": "2026-05-02"
+  },
+  {
+    "id": 7,
+    "name": "Farzana Rahman",
+    "email": "farzana.rahman@gmail.com",
+    "picture": "https://randomuser.me/api/portraits/women/27.jpg",
+    "days_since_contact": 35,
+    "status": "On Track",
+    "tags": [
+      "family"
+    ],
+    "bio": "Cousin and mentor. Always supports personal growth.",
+    "goal": 18,
+    "next_due_date": "2026-04-26"
+  },
+  {
+    "id": 8,
+    "name": "Imran Khan",
+    "email": "imran.khan@gmail.com",
+    "picture": "https://randomuser.me/api/portraits/men/28.jpg",
+    "days_since_contact": 95,
+    "status": "Almost Due",
+    "tags": [
+      "work"
+    ],
+    "bio": "Creative designer working on branding and UI systems.",
+    "goal": 10,
+    "next_due_date": "2026-04-19"
+  },
+  {
+    "id": 9,
+    "name": "Sharmin Sultana",
+    "email": "sharmin.sultana@gmail.com",
+    "picture": "https://randomuser.me/api/portraits/women/29.jpg",
+    "days_since_contact": 55,
+    "status": "Almost Due",
+    "tags": [
+      "family"
+    ],
+    "bio": "Family friend. Loves organizing events and gatherings.",
+    "goal": 16,
+    "next_due_date": "2026-04-16"
+  },
+  {
+    "id": 10,
+    "name": "Hasan Mahmud",
+    "email": "hasan.mahmud@gmail.com",
+    "picture": "https://randomuser.me/api/portraits/men/30.jpg",
+    "days_since_contact": 12,
+    "status": "On Track",
+    "tags": [
+      "travel",
+      "hobby"
+    ],
+    "bio": "Food lover and traveler. Always exploring new restaurants.",
+    "goal": 20,
+    "next_due_date": "2026-05-03"
+  }
+]
