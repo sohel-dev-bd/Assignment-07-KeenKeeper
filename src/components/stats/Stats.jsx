@@ -19,8 +19,7 @@ const Stats = () => {
 
 
     
-
-
+    
     const COLORS = ['#244D3F', '#7E35E1', '#37A163'];
 
     return (
@@ -80,3 +79,5 @@ const Stats = () => {
 };
 
 export default Stats;
+
+

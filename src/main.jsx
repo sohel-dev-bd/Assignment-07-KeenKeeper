@@ -12,7 +12,6 @@ import Stats from './components/stats/Stats'
 import TimeLineHistory from './components/timeLineHistory/TimeLineHistory'
 import CallFriendProvider from './context/CallFriendContext'
 
-
 const router = createBrowserRouter([
   {
     path: '/',
@@ -43,7 +42,6 @@ const router = createBrowserRouter([
     </div>
   }
 ])
-
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
