@@ -9,6 +9,7 @@ KeenKeeper is a modern and responsive web application built using React and Tail
 👉 https://your-live-link.com
 
 ---
+GitHub Link : https://github.com/sohel-dev-bd/Assignment-07-KeenKeeper
 
 ## 🛠️ Tech Stack
 
@@ -68,7 +69,7 @@ npm run build
 
 🙋‍♂️ Author
 Name: Sohel Rana
-GitHub: https://github.com/your-username
+GitHub: https://github.com/sohel-dev-bd/Assignment-07-KeenKeeper
 📜 License
 
 This project is licensed under the MIT License.
