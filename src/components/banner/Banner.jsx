@@ -13,7 +13,7 @@ const Banner = () => {
             <div className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-3'>
                 <div className='text-center bg-white rounded-2xl space-y-2 py-8 shadow-sm'>
                     <h1 className='text-3xl font-semibold text-[#244D3F]'>10</h1>
-                    <p className='text-[18px] text-[#64748B]'>Total Friends</p>
+                    <p className='text-[18px] text-[#63748b]'>Total Friends</p>
                 </div>
 
                 <div className='text-center bg-white rounded-2xl space-y-2 py-8 shadow-sm'>
