@@ -23,7 +23,7 @@ const Footer = () => {
                         <a href="https://x.com/MASUDURRAH73320" target='blank'><img src={twitter} alt="" /></a>
                     </div>
                 </div>
-                <hr className='mt-10 mb-10 border-white opacity-10 '/>
+                <hr className='mt-10 mb-10 border-white opacity-10' />
 
                 <div className='flex flex-col md:flex-row text-center md:text-left justify-between space-y-2'>
                     <span className='text-[#FAFAFA]'>© 2026 KeenKeeper. All rights reserved.</span>
